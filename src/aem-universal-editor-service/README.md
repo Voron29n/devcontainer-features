@@ -7,7 +7,7 @@ Setup the AEM Universal Editor Service for local development.
 
 ```json
 "features": {
-    "ghcr.io/juan-ayala/devcontainer-features/aem-universal-editor-service:1": {}
+    "ghcr.io/Voron29n/devcontainer-features/aem-universal-editor-service:1": {}
 }
 ```
 
@@ -63,4 +63,4 @@ Once the service has started, verify you can get the core library. Make sure to 
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/juan-ayala/devcontainer-features/blob/main/src/aem-universal-editor-service/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/Voron29n/devcontainer-features/blob/main/src/aem-universal-editor-service/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

@@ -7,7 +7,7 @@ Setup author and publish services. And the dispatcher tools. Requires the AEM as
 
 ```json
 "features": {
-    "ghcr.io/juan-ayala/devcontainer-features/aem-sdk:1": {}
+    "ghcr.io/Voron29n/devcontainer-features/aem-sdk:1": {}
 }
 ```
 
@@ -63,4 +63,4 @@ The feature also sets up volume mounts for the author and publish services. This
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/juan-ayala/devcontainer-features/blob/main/src/aem-sdk/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/Voron29n/devcontainer-features/blob/main/src/aem-sdk/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
