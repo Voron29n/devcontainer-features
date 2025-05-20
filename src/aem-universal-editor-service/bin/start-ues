@@ -56,5 +56,4 @@ nvm exec ${AEM_UES_NODE_VERSION} \
 nvm exec ${AEM_UES_NODE_VERSION} \
     concurrently --kill-others \
         "node universal-editor-service.cjs" \
-        "local-ssl-proxy --source ${AEM_UES_HTTPS_PORT} --target ${AEM_UES_HTTP_PORT}" \
         "local-ssl-proxy --source ${AEM_UES_AUTHOR_HTTPS_PORT} --target ${AEM_UES_AUTHOR_HTTP_PORT}"
